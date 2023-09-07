@@ -1,4 +1,4 @@
-                                        # **Hunters Maze Game Portfolio Project**
+                           **Hunters Maze Game Portfolio Project**
 
 **Introduction**
 
